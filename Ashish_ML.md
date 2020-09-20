@@ -1,5 +1,5 @@
 # MACHINE LEARNING TOPICS
-``
+```
 Supervised Learning 
 Unsupervised Learning 
 Reinforcement Learning 
@@ -19,10 +19,10 @@ Data Leakage
 OHE,Label Encoding 
 Feature Engineering 
 PCA
-``
+```
 
 # DEEP LEARNING TOPICS 
-``
+```
 Neural Networks 
 Perceptron 
 Forward Propagation 
@@ -38,4 +38,4 @@ Momentum Gradient Descent
 RMSProp 
 Hyperparameter Tuning 
 Regularization 
-``
+```
