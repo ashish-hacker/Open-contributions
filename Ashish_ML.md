@@ -1,4 +1,4 @@
-# MACHINE LEARNING TOPICS
+# Machine Learning Topics
 ```
 Supervised Learning 
 Unsupervised Learning 
@@ -21,7 +21,7 @@ Feature Engineering
 PCA
 ```
 
-# DEEP LEARNING TOPICS 
+# Deep Learning Topics 
 ```
 Neural Networks 
 Perceptron 
